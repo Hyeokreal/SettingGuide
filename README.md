@@ -4,7 +4,7 @@
 
 - **윈도우 [[link]](./윈도우10_설치가이드.md)**
 
-- **리눅스(우분투) [[link]](./우분투_설치가이드.md)**
+- **맥(mac) [[link]](./맥_설치가이드.md)**
   ​
 
 ### IDE(interface Development environment)
